@@ -11,6 +11,8 @@
     <None Include="..\..\Source\UIArchitectureProtoEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -83,9 +85,6 @@
     <Filter Include="Source\UIArchitectureProto\Private\UI">
       <UniqueIdentifier>{D15D2267-84F8-3968-83AA-698B69E61A2A}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\UIArchitectureProto\Private\UI\BaseDataModel.cpp">
-      <Filter>Source\UIArchitectureProto\Private\UI</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\Source\UIArchitectureProto\Private\UI\BaseInteractor.cpp">
       <Filter>Source\UIArchitectureProto\Private\UI</Filter>
     </ClCompile>
@@ -100,15 +99,6 @@
     </ClCompile>
     <ClCompile Include="..\..\Source\UIArchitectureProto\Private\UI\UIParams.cpp">
       <Filter>Source\UIArchitectureProto\Private\UI</Filter>
-    </ClCompile>
-    <Filter Include="Source\UIArchitectureProto\Private\UI\DataModels">
-      <UniqueIdentifier>{B605820A-4F50-3C44-A55B-3238A5AAA59B}</UniqueIdentifier>
-    </Filter>
-    <ClCompile Include="..\..\Source\UIArchitectureProto\Private\UI\DataModels\ConfirmDialogDataModel.cpp">
-      <Filter>Source\UIArchitectureProto\Private\UI\DataModels</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\UIArchitectureProto\Private\UI\DataModels\EscapeMenuDataModel.cpp">
-      <Filter>Source\UIArchitectureProto\Private\UI\DataModels</Filter>
     </ClCompile>
     <Filter Include="Source\UIArchitectureProto\Private\UI\Interactors">
       <UniqueIdentifier>{2E0C3767-C89D-3D49-949A-47AB7B0BC897}</UniqueIdentifier>
@@ -143,9 +133,6 @@
     <Filter Include="Source\UIArchitectureProto\Public\UI">
       <UniqueIdentifier>{B864BC21-74DA-3FCF-968E-BC0441681272}</UniqueIdentifier>
     </Filter>
-    <ClInclude Include="..\..\Source\UIArchitectureProto\Public\UI\BaseDataModel.h">
-      <Filter>Source\UIArchitectureProto\Public\UI</Filter>
-    </ClInclude>
     <ClInclude Include="..\..\Source\UIArchitectureProto\Public\UI\BaseInteractor.h">
       <Filter>Source\UIArchitectureProto\Public\UI</Filter>
     </ClInclude>
@@ -160,15 +147,6 @@
     </ClInclude>
     <ClInclude Include="..\..\Source\UIArchitectureProto\Public\UI\UIParams.h">
       <Filter>Source\UIArchitectureProto\Public\UI</Filter>
-    </ClInclude>
-    <Filter Include="Source\UIArchitectureProto\Public\UI\DataModels">
-      <UniqueIdentifier>{35D211AD-B09D-3B8C-A816-29B55A5390AE}</UniqueIdentifier>
-    </Filter>
-    <ClInclude Include="..\..\Source\UIArchitectureProto\Public\UI\DataModels\ConfirmDialogDataModel.h">
-      <Filter>Source\UIArchitectureProto\Public\UI\DataModels</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Source\UIArchitectureProto\Public\UI\DataModels\EscapeMenuDataModel.h">
-      <Filter>Source\UIArchitectureProto\Public\UI\DataModels</Filter>
     </ClInclude>
     <Filter Include="Source\UIArchitectureProto\Public\UI\Interactors">
       <UniqueIdentifier>{0BC18BDB-17B6-3A0F-A174-4B7DA1AA50FF}</UniqueIdentifier>

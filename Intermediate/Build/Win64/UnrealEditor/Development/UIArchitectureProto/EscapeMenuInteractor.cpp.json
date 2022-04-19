@@ -21,11 +21,7 @@
             "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\source\\uiarchitectureproto\\public\\ui\\presenters\\escapemenupresenter.h",
             "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\source\\uiarchitectureproto\\public\\ui\\basepresenter.h",
             "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\intermediate\\build\\win64\\unrealeditor\\inc\\uiarchitectureproto\\basepresenter.generated.h",
-            "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\intermediate\\build\\win64\\unrealeditor\\inc\\uiarchitectureproto\\escapemenupresenter.generated.h",
-            "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\source\\uiarchitectureproto\\public\\ui\\datamodels\\escapemenudatamodel.h",
-            "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\source\\uiarchitectureproto\\public\\ui\\basedatamodel.h",
-            "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\intermediate\\build\\win64\\unrealeditor\\inc\\uiarchitectureproto\\basedatamodel.generated.h",
-            "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\intermediate\\build\\win64\\unrealeditor\\inc\\uiarchitectureproto\\escapemenudatamodel.generated.h"
+            "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\intermediate\\build\\win64\\unrealeditor\\inc\\uiarchitectureproto\\escapemenupresenter.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
