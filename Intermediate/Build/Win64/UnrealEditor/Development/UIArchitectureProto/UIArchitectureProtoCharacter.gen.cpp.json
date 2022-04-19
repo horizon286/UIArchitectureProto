@@ -1,0 +1,21 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\intermediate\\build\\win64\\unrealeditor\\inc\\uiarchitectureproto\\uiarchitectureprotocharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\intermediate\\build\\win64\\uiarchitectureprotoeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\intermediate\\build\\win64\\unrealeditor\\development\\uiarchitectureproto\\definitions.uiarchitectureproto.h",
+            "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\source\\uiarchitectureproto\\uiarchitectureprotocharacter.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\intermediate\\build\\win64\\unrealeditor\\inc\\uiarchitectureproto\\uiarchitectureprotocharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\intermediate\\build\\win64\\unrealeditor\\inc\\uiarchitectureproto\\gamehud.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\intermediate\\build\\win64\\uiarchitectureprotoeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\intermediate\\build\\win64\\unrealeditor\\development\\uiarchitectureproto\\definitions.uiarchitectureproto.h",
+            "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\source\\uiarchitectureproto\\public\\ui\\gamehud.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\hud.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\hudhitbox.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\debugtextinfo.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\debugtextinfo.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\hud.generated.h",
+            "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\intermediate\\build\\win64\\unrealeditor\\inc\\uiarchitectureproto\\gamehud.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

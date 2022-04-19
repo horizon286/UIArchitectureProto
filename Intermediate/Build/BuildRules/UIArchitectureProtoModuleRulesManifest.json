@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\danie\\Documents\\Unreal Projects\\UIArchitectureProto\\Source\\UIArchitectureProto\\UIArchitectureProto.Build.cs",
+		"C:\\Users\\danie\\Documents\\Unreal Projects\\UIArchitectureProto\\Source\\UIArchitectureProto.Target.cs",
+		"C:\\Users\\danie\\Documents\\Unreal Projects\\UIArchitectureProto\\Source\\UIArchitectureProtoEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.0"
+}

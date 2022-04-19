@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UIArchitectureProto.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UIArchitectureProto.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UIArchitectureProtoEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\UIArchitectureProto">
+      <UniqueIdentifier>{C8640C67-35CE-3506-9594-4A9A18C2848E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UIArchitectureProto\TP_PickUpComponent.cpp">
+      <Filter>Source\UIArchitectureProto</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UIArchitectureProto\TP_PickUpComponent.h">
+      <Filter>Source\UIArchitectureProto</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UIArchitectureProto\TP_WeaponComponent.cpp">
+      <Filter>Source\UIArchitectureProto</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UIArchitectureProto\TP_WeaponComponent.h">
+      <Filter>Source\UIArchitectureProto</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\UIArchitectureProto\UIArchitectureProto.Build.cs">
+      <Filter>Source\UIArchitectureProto</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UIArchitectureProto\UIArchitectureProto.cpp">
+      <Filter>Source\UIArchitectureProto</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UIArchitectureProto\UIArchitectureProto.h">
+      <Filter>Source\UIArchitectureProto</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UIArchitectureProto\UIArchitectureProtoCharacter.cpp">
+      <Filter>Source\UIArchitectureProto</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UIArchitectureProto\UIArchitectureProtoCharacter.h">
+      <Filter>Source\UIArchitectureProto</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UIArchitectureProto\UIArchitectureProtoGameMode.cpp">
+      <Filter>Source\UIArchitectureProto</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UIArchitectureProto\UIArchitectureProtoGameMode.h">
+      <Filter>Source\UIArchitectureProto</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UIArchitectureProto\UIArchitectureProtoProjectile.cpp">
+      <Filter>Source\UIArchitectureProto</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UIArchitectureProto\UIArchitectureProtoProjectile.h">
+      <Filter>Source\UIArchitectureProto</Filter>
+    </ClInclude>
+    <Filter Include="Source\UIArchitectureProto\Private">
+      <UniqueIdentifier>{750E1908-CCEE-33B5-910A-1FE83C5577B7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\UIArchitectureProto\Private\UI">
+      <UniqueIdentifier>{D15D2267-84F8-3968-83AA-698B69E61A2A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UIArchitectureProto\Private\UI\BaseDataModel.cpp">
+      <Filter>Source\UIArchitectureProto\Private\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UIArchitectureProto\Private\UI\BaseInteractor.cpp">
+      <Filter>Source\UIArchitectureProto\Private\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UIArchitectureProto\Private\UI\BasePresenter.cpp">
+      <Filter>Source\UIArchitectureProto\Private\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UIArchitectureProto\Private\UI\BaseViewWidget.cpp">
+      <Filter>Source\UIArchitectureProto\Private\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UIArchitectureProto\Private\UI\GameHUD.cpp">
+      <Filter>Source\UIArchitectureProto\Private\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UIArchitectureProto\Private\UI\UIParams.cpp">
+      <Filter>Source\UIArchitectureProto\Private\UI</Filter>
+    </ClCompile>
+    <Filter Include="Source\UIArchitectureProto\Private\UI\DataModels">
+      <UniqueIdentifier>{B605820A-4F50-3C44-A55B-3238A5AAA59B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UIArchitectureProto\Private\UI\DataModels\ConfirmDialogDataModel.cpp">
+      <Filter>Source\UIArchitectureProto\Private\UI\DataModels</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UIArchitectureProto\Private\UI\DataModels\EscapeMenuDataModel.cpp">
+      <Filter>Source\UIArchitectureProto\Private\UI\DataModels</Filter>
+    </ClCompile>
+    <Filter Include="Source\UIArchitectureProto\Private\UI\Interactors">
+      <UniqueIdentifier>{2E0C3767-C89D-3D49-949A-47AB7B0BC897}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UIArchitectureProto\Private\UI\Interactors\ConfirmDialogInteractor.cpp">
+      <Filter>Source\UIArchitectureProto\Private\UI\Interactors</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UIArchitectureProto\Private\UI\Interactors\EscapeMenuInteractor.cpp">
+      <Filter>Source\UIArchitectureProto\Private\UI\Interactors</Filter>
+    </ClCompile>
+    <Filter Include="Source\UIArchitectureProto\Private\UI\Presenters">
+      <UniqueIdentifier>{1190A737-7614-3645-A38C-11A5E4774E82}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UIArchitectureProto\Private\UI\Presenters\ConfirmDialogPresenter.cpp">
+      <Filter>Source\UIArchitectureProto\Private\UI\Presenters</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UIArchitectureProto\Private\UI\Presenters\EscapeMenuPresenter.cpp">
+      <Filter>Source\UIArchitectureProto\Private\UI\Presenters</Filter>
+    </ClCompile>
+    <Filter Include="Source\UIArchitectureProto\Private\UI\Views">
+      <UniqueIdentifier>{72E62DAA-19DE-3E7F-88C7-029954423612}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UIArchitectureProto\Private\UI\Views\ConfirmDialogView.cpp">
+      <Filter>Source\UIArchitectureProto\Private\UI\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UIArchitectureProto\Private\UI\Views\EscapeMenuView.cpp">
+      <Filter>Source\UIArchitectureProto\Private\UI\Views</Filter>
+    </ClCompile>
+    <Filter Include="Source\UIArchitectureProto\Public">
+      <UniqueIdentifier>{1BD5D0DA-A651-39C3-B43D-2E4B5CEDFBD8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\UIArchitectureProto\Public\UI">
+      <UniqueIdentifier>{B864BC21-74DA-3FCF-968E-BC0441681272}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\UIArchitectureProto\Public\UI\BaseDataModel.h">
+      <Filter>Source\UIArchitectureProto\Public\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UIArchitectureProto\Public\UI\BaseInteractor.h">
+      <Filter>Source\UIArchitectureProto\Public\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UIArchitectureProto\Public\UI\BasePresenter.h">
+      <Filter>Source\UIArchitectureProto\Public\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UIArchitectureProto\Public\UI\BaseViewWidget.h">
+      <Filter>Source\UIArchitectureProto\Public\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UIArchitectureProto\Public\UI\GameHUD.h">
+      <Filter>Source\UIArchitectureProto\Public\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UIArchitectureProto\Public\UI\UIParams.h">
+      <Filter>Source\UIArchitectureProto\Public\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\UIArchitectureProto\Public\UI\DataModels">
+      <UniqueIdentifier>{35D211AD-B09D-3B8C-A816-29B55A5390AE}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\UIArchitectureProto\Public\UI\DataModels\ConfirmDialogDataModel.h">
+      <Filter>Source\UIArchitectureProto\Public\UI\DataModels</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UIArchitectureProto\Public\UI\DataModels\EscapeMenuDataModel.h">
+      <Filter>Source\UIArchitectureProto\Public\UI\DataModels</Filter>
+    </ClInclude>
+    <Filter Include="Source\UIArchitectureProto\Public\UI\Interactors">
+      <UniqueIdentifier>{0BC18BDB-17B6-3A0F-A174-4B7DA1AA50FF}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\UIArchitectureProto\Public\UI\Interactors\ConfirmDialogInteractor.h">
+      <Filter>Source\UIArchitectureProto\Public\UI\Interactors</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UIArchitectureProto\Public\UI\Interactors\EscapeMenuInteractor.h">
+      <Filter>Source\UIArchitectureProto\Public\UI\Interactors</Filter>
+    </ClInclude>
+    <Filter Include="Source\UIArchitectureProto\Public\UI\Presenters">
+      <UniqueIdentifier>{32733C9D-663E-3CA5-A858-0AF0D2485C04}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\UIArchitectureProto\Public\UI\Presenters\ConfirmDialogPresenter.h">
+      <Filter>Source\UIArchitectureProto\Public\UI\Presenters</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UIArchitectureProto\Public\UI\Presenters\EscapeMenuPresenter.h">
+      <Filter>Source\UIArchitectureProto\Public\UI\Presenters</Filter>
+    </ClInclude>
+    <Filter Include="Source\UIArchitectureProto\Public\UI\Views">
+      <UniqueIdentifier>{9CECBC19-DDAF-382A-8707-2C5315079B7E}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\UIArchitectureProto\Public\UI\Views\ConfirmDialogView.h">
+      <Filter>Source\UIArchitectureProto\Public\UI\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UIArchitectureProto\Public\UI\Views\EscapeMenuView.h">
+      <Filter>Source\UIArchitectureProto\Public\UI\Views</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

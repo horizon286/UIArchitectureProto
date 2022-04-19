@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UIArchitectureProto",
+			"Path": "C:\\Users\\danie\\Documents\\Unreal Projects\\UIArchitectureProto\\Source\\UIArchitectureProto.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UIArchitectureProtoEditor",
+			"Path": "C:\\Users\\danie\\Documents\\Unreal Projects\\UIArchitectureProto\\Source\\UIArchitectureProtoEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

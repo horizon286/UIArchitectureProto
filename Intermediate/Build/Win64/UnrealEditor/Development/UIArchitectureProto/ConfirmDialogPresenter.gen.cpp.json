@@ -1,0 +1,25 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\intermediate\\build\\win64\\unrealeditor\\inc\\uiarchitectureproto\\confirmdialogpresenter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\intermediate\\build\\win64\\uiarchitectureprotoeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\intermediate\\build\\win64\\unrealeditor\\development\\uiarchitectureproto\\definitions.uiarchitectureproto.h",
+            "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\source\\uiarchitectureproto\\public\\ui\\presenters\\confirmdialogpresenter.h",
+            "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\source\\uiarchitectureproto\\public\\ui\\basepresenter.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\source\\uiarchitectureproto\\public\\ui\\uiparams.h",
+            "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\intermediate\\build\\win64\\unrealeditor\\inc\\uiarchitectureproto\\uiparams.generated.h",
+            "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\intermediate\\build\\win64\\unrealeditor\\inc\\uiarchitectureproto\\basepresenter.generated.h",
+            "c:\\users\\danie\\documents\\unreal projects\\uiarchitectureproto\\intermediate\\build\\win64\\unrealeditor\\inc\\uiarchitectureproto\\confirmdialogpresenter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
